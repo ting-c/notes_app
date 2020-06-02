@@ -1,4 +1,4 @@
-Notes App
+# Notes App
 
 A simple command line notes taking app created using node js with libraries such as yargs and chalk. User can add a new note, delete an existing note, list out all notes, read a note and search for a note with a matching word in the title. 
 
